@@ -98,7 +98,9 @@ cd ProjectFolderName
 
 
 🧑‍💻 [LinkedIn](https://www.linkedin.com/in/digvijaykumarsingh)
+
 💻 [GitHub](https://github.com/chauhandigvijay1)
+
 📧 chauhandigvijay669@gmail.com
 
 
