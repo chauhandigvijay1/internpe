@@ -53,7 +53,8 @@ Each project reflects my **personal style, creativity, and interactive design ap
 - 🔗 **TaskVibe**: [Live Demo](https://todo-list-internpe.netlify.app/)  
 - 🔗 **DigFour**: [Live Demo](https://connect-4-game-internpe.netlify.app/)  
 - 🔗 **Calculator**: [Live Demo](https://calculator-internpe.netlify.app/)  
-- 🔗 **Aura UI** (Storybook): [Live Demo](https://aura-ui-storybook.netlify.app/)  
+- 🔗 **Aura UI**: [Live Demo](https://aura-ui-client.netlify.app/)  
+- 🔗 **Aura UI** (Storybook): [Storybook Demo](https://aura-ui-storybook.netlify.app/)  
 
 💻 **GitHub Repo**: [InternPe Projects](https://github.com/chauhandigvijay1/internpe)
 
