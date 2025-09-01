@@ -9,7 +9,7 @@ Each project reflects my **personal style, creativity, and interactive design ap
 
 | Project | Description | Folder Link | 
 |---------|-------------|--------|
-| **SinghCart** | Modern E-Commerce website with unique personal UI, product listing, categories, cart, and theme toggle. | [SinghCart](https://github.com/chauhandigvijay1/internpe/tree/main/E-Commerce-website) | 
+| **SinghMart** | Modern E-Commerce website with unique personal UI, product listing, categories, cart, and theme toggle. | [SinghMart](https://github.com/chauhandigvijay1/internpe/tree/main/E-Commerce-website) | 
 | **TaskVibe** | Custom To-Do List app with personal flavor. Features: add, delete, clear tasks. | [TaskVibe](https://github.com/chauhandigvijay1/internpe/tree/main/To-Do-List) |
 | **DigFour** | Connect Four game with dual mode: 2-player local & player vs computer. Features: hover effects, colored discs, win detection. | [Dogfour](https://github.com/chauhandigvijay1/internpe/tree/main/Connect-4-game) |
 | **Calculator** | Simple calculator with modern UI and smooth interactivity. | [Calculator](https://github.com/chauhandigvijay1/internpe/tree/main/Calculator) | 
@@ -32,7 +32,7 @@ Each project reflects my **personal style, creativity, and interactive design ap
 
 ## 🚀 Live Demos
 
-- 🔗 **SinghCart**: [Live Demo](https://singhmart-internpe.netlify.app/)  
+- 🔗 **SinghMart**: [Live Demo](https://singhmart-internpe.netlify.app/)  
 - 🔗 **TaskVibe**: [Live Demo](https://todo-list-internpe.netlify.app/)  
 - 🔗 **DigFour**: [Live Demo](https://connect-4-game-internpe.netlify.app/)  
 - 🔗 **Calculator**: [Live Demo](https://calculator-internpe.netlify.app/)  
@@ -43,13 +43,13 @@ Each project reflects my **personal style, creativity, and interactive design ap
 
 ## 📂 Folder & Files
 
-- `SinghCart/` → index.html, style.css, script.js  
+- `SSinghMart/` → index.html, style.css, script.js  
 - `TaskVibe/` → index.html, style.css, script.js  
 - `DigFour/` → index.html, style.css, script.js  
 - `Calculator/` → index.html, style.css, script.js  
 
 
-![SinghCart Screenshot](https://github.com/chauhandigvijay1/internpe/blob/main/assets/Screenshot1.png)
+![SinghMart Screenshot](https://github.com/chauhandigvijay1/internpe/blob/main/assets/Screenshot1.png)
 ![TaskVibe Screenshot](https://github.com/chauhandigvijay1/internpe/blob/main/assets/Screenshot2.png)
 ![DigFour Screenshot](https://github.com/chauhandigvijay1/internpe/blob/main/assets/Screenshot3.png)
 ![Calculator Screenshot](https://github.com/chauhandigvijay1/internpe/blob/main/assets/Screenshot4.png)
