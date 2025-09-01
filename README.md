@@ -11,7 +11,7 @@ Each project reflects my **personal style, creativity, and interactive design ap
 |---------|-------------|--------|
 | **SinghMart** | Modern E-Commerce website with unique personal UI, product listing, categories, cart, and theme toggle. | [SinghMart](https://github.com/chauhandigvijay1/internpe/tree/main/E-Commerce-website) | 
 | **TaskVibe** | Custom To-Do List app with personal flavor. Features: add, delete, clear tasks. | [TaskVibe](https://github.com/chauhandigvijay1/internpe/tree/main/To-Do-List) |
-| **DigFour** | Connect Four game with dual mode: 2-player local & player vs computer. Features: hover effects, colored discs, win detection. | [Dogfour](https://github.com/chauhandigvijay1/internpe/tree/main/Connect-4-game) |
+| **DigFour** | Connect Four game with dual mode: 2-player local & player vs computer. Features: hover effects, colored discs, win detection. | [Digfour](https://github.com/chauhandigvijay1/internpe/tree/main/Connect-4-game) |
 | **Calculator** | Simple calculator with modern UI and smooth interactivity. | [Calculator](https://github.com/chauhandigvijay1/internpe/tree/main/Calculator) | 
 
 ---
