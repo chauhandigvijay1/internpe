@@ -10,7 +10,8 @@
     "test": "vitest run",
     "test:watch": "vitest",
     "storybook": "storybook dev -p 6006",
-    "build-storybook": "storybook build"
+    "build-storybook": "storybook build",
+    "build:all": "npm run build && npm run build-storybook && node -e \"fs.cpSync('storybook-static','dist/storybook',{recursive:true})\""
   },
   "dependencies": {
     "react": "^18.3.1",
