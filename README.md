@@ -149,4 +149,5 @@ cd ProjectFolderName
 ---
 
 
-Made with ❤️ by **Digvijay Singh**
+Made with ❤️ by **Digvijay Singh**  
+*Last updated: September 2025*
