@@ -43,7 +43,7 @@ Each project reflects my **personal style, creativity, and interactive design ap
 
 ## 📂 Folder & Files
 
-- `SSinghMart/` → index.html, style.css, script.js  
+- `SinghMart/` → index.html, style.css, script.js  
 - `TaskVibe/` → index.html, style.css, script.js  
 - `DigFour/` → index.html, style.css, script.js  
 - `Calculator/` → index.html, style.css, script.js  
@@ -84,7 +84,7 @@ cd ProjectFolderName
 ## 🎨 Personal Touch & Branding
 
 
-- **Unique project names**: SinghCart, TaskVibe, DigFour
+- **Unique project names**: SinghMart, TaskVibe, DigFour
 - **Modern UI & interactivity**
 - Projects demonstrate **problem-solving, creativity, and learning** during internship
 - Clean folder structure and readable code
