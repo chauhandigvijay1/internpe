@@ -11,7 +11,7 @@ export default {
           dark: '#020617',
           accent: 'hsl(230, 100%, 67%)',
           glow: 'hsl(230, 100%, 75%)',
-          muted: 'hsl(230, 20%, 60%)',
+          muted: 'hsl(230, 25%, 72%)',
           surface: 'rgba(15, 23, 42, 0.4)',
         },
       },
