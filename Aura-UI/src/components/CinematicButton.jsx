@@ -4,7 +4,7 @@ const variantStyles = {
   secondary:
     'glass text-aura-accent hover:text-white hover:bg-slate-800/60',
   ghost:
-    'bg-transparent text-aura-muted hover:text-white hover:bg-white/5',
+    'bg-aura-dark/40 text-aura-muted hover:text-white hover:bg-aura-dark/70',
 }
 
 function CinematicButton({ children, onClick, variant = 'primary', disabled = false, type = 'button', ...props }) {

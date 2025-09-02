@@ -37,7 +37,7 @@ function App() {
 
       <A11yToggle paused={videoPaused} onToggle={toggleVideo} />
 
-      <main className="relative z-10 min-h-screen p-6 md:p-12">
+      <main className="relative z-10 min-h-screen p-6 md:p-12 bg-aura-dark/40">
         <header className="mb-12 text-center">
           <h1 className="text-5xl md:text-7xl font-bold tracking-tight bg-gradient-to-r from-aura-accent to-aura-glow bg-clip-text text-transparent">
             Aura UI
