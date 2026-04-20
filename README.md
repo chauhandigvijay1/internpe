@@ -1,5 +1,11 @@
 # 🌐 InternPe Internship Projects – Personal & Interactive Portfolio
 
+![HTML5](https://img.shields.io/badge/HTML5-Markup-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-Styling-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Interactivity-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![InternPe](https://img.shields.io/badge/InternPe-4%20Projects-FF9800?style=for-the-badge)
+![Netlify](https://img.shields.io/badge/Netlify-Live%20Demos-8E44AD?style=for-the-badge&logo=netlify&logoColor=white)
+
 This repository contains my **4 fully functional projects** developed during my internship at **InternPe** using **HTML, CSS, and JavaScript**.  
 Each project reflects my **personal style, creativity, and interactive design approach**.
 
